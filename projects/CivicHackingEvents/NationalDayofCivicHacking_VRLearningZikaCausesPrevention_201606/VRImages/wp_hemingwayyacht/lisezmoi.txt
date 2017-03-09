@@ -1,0 +1,7 @@
+WPanorama - Image panoramique
+=============================
+Pour installer, il suffit d'extraire les
+fichiers de cette archive dans le dossier
+des images de WPanorama.
+(par défaut: sous-dossier "WPanorama"
+de "Mes documents" ou "Documents")

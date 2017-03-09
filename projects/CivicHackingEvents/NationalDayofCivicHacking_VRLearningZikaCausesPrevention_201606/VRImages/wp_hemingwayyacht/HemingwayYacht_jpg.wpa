@@ -1,0 +1,44 @@
+[Misc]
+AddMirror=0
+AutoWidth=0
+AutoHeight=0
+OriginalWidth=0
+OriginalHeight=0
+AutoScroll=1
+HideControlPanel=0
+HideToolBar=0
+ImageWidth=600
+ImageHeight=300
+PositionInImage=47
+ScrollIncrement=1
+FullScreenLoading=0
+AutoReverse=0
+FullScreenDisplayHeight=0
+FullScreenDisplayDepth=0
+ScrollTimer=10
+ReverseDelay=1500
+ScrollDirection=1
+Orientation=0
+SynchronizeOnFrame=0
+IncrementFromWidth=0
+PosInImageDisplay=0
+StretchFilter=1
+BgColor=0
+SoundFilename=
+SoundEnabled=0
+
+[Author]
+PictureDescriptionE=Ernest Hemingway's Boat on Display at Finca Vigía%(Havana, Cuba)
+PictureDescriptionF=Le yacht d'Ernest Hemingway exposé à Finca Vigía%(La Havane, Cuba)
+Name=Camilo Hernández Pérez
+E-mail=
+WebSite=
+
+[Map]
+Show=1
+Latitude=23.067242
+Longitude=-82.297114
+Type=1
+ZoomLevel=13
+Marker=1
+
