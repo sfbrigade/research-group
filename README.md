@@ -25,28 +25,28 @@ New member engagement is key to project success at Code for SF. To identify feas
 
 #### Project History
 
-+ [Inspiration: Need-finding with Surveys and Interviews](https://github.com/sfbrigade/research-group/projects/NewMemberEngagement/1-1_Inspiration_Interviews-Serveys-NeedFindings)
-+ [Ideation: New Member Characteristics and Pain Points with Personas and JourneyMaps](https://github.com/sfbrigade/research-group/projects/NewMemberEngagement/2-1_Ideation_Personas-JourneyMaps-PainPoints)
-+ [Ideation: Solution Brainstorming](https://github.com/sfbrigade/research-group/projects/NewMemberEngagement/2-2_Ideation_BrainstormSolutions)
++ [Inspiration: Need-finding with Surveys and Interviews](https://github.com/sfbrigade/research-group/tree/master/projects/NewMemberEngagement/1-1_Inspiration_Interviews-Serveys-NeedFindings)
++ [Ideation: New Member Characteristics and Pain Points with Personas and JourneyMaps](https://github.com/sfbrigade/research-group/tree/master/projects/NewMemberEngagement/2-1_Ideation_Personas-JourneyMaps-PainPoints)
++ [Ideation: Solution Brainstorming](https://github.com/sfbrigade/research-group/tree/master/projects/NewMemberEngagement/2-2_Ideation_BrainstormSolutions)
 
 #### Current Projects
 
 The UX Research Group is currently focusing on four areas of new member engagement improvements with agile prototyping. **Feel free to contact the research group if you are interested in participating or leading any of the projects or activities.**
 
-+ [Implementation: Signage](https://github.com/sfbrigade/research-group/projects/NewMemberEngagement/3-1_Implementation_Signage)
-+ [Implementation: Project Team Accessibility](https://github.com/sfbrigade/research-group/projects/NewMemberEngagement/3-2_Implementation_TeamAccessibility)
-+ [Implementation: Matching Hat](https://github.com/sfbrigade/research-group/projects/NewMemberEngagement/3-3_Implementation_ProjectMatchingHat)
-+ [Implementation: BrigadeHub Project List UI](https://github.com/sfbrigade/research-group/projects/NewMemberEngagement/3-4_Implementation_BrigadehubProjectList)
++ [Implementation: Signage](https://github.com/sfbrigade/research-group/tree/master/projects/NewMemberEngagement/3-1_Implementation_Signage)
++ [Implementation: Project Team Accessibility](https://github.com/sfbrigade/research-group/tree/master/projects/NewMemberEngagement/3-2_Implementation_TeamAccessibility)
++ [Implementation: Matching Hat](https://github.com/sfbrigade/research-group/tree/master/projects/NewMemberEngagement/3-3_Implementation_ProjectMatchingHat)
++ [Implementation: BrigadeHub Project List UI](https://github.com/sfbrigade/research-group/tree/master/projects/NewMemberEngagement/3-4_Implementation_BrigadehubProjectList)
 
 ### Civic Hacking Events
 
 The UX Research Group aims to foster good UX practices by hosting design thinking brainstorming sessions at civic hacking events.
 
-[3/2016 CodeAccross: Stop Violence Against Women](https://github.com/sfbrigade/research-group/projects/CivicHackingEvents/CodeAccross_StopViolenceAgainstWomen_201603)
+[3/2016 CodeAccross: Stop Violence Against Women](https://github.com/sfbrigade/research-group/tree/master/projects/CivicHackingEvents/CodeAccross_StopViolenceAgainstWomen_201603)
 
 [6/2016 National Day of Civic Hacking:_VR Learning / Zika Causes and Prevention](https://github.com/sfbrigade/research-group/tree/master/projects/CivicHackingEvents/NationalDayofCivicHacking_VRLearningZikaCausesPrevention_201606)
 
-[3/2017: CodeAcross: Lower SF Rents](https://github.com/sfbrigade/research-group/projects/CivicHackingEvents/CodeAcross_LowerSFRents_201703)
+[3/2017: CodeAcross: Lower SF Rents](https://github.com/sfbrigade/research-group/tree/master/projects/CivicHackingEvents/CodeAcross_LowerSFRents_201703)
 
 ---
 
