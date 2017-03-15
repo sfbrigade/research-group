@@ -5,8 +5,6 @@ The UX Research Group applies user-centered design, design thinking methods, and
 
 ![](https://github.com/sfbrigade/research-group/blob/master/images/codeacross-vaw-discussion1.jpg)
 
----
-
 ## How to get involved
 
 All are welcome because UX research involves many different skills and skill levels! 
