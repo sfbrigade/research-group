@@ -42,11 +42,11 @@ The UX Research Group is currently focusing on four areas of new member engageme
 
 The UX Research Group aims to foster good UX practices by hosting design thinking brainstorming sessions at civic hacking events.
 
-[3/2016 CodeAccross: Stop Violence Against Women](https://github.com/sfbrigade/research-group/tree/master/projects/CivicHackingEvents/CodeAccross_StopViolenceAgainstWomen_201603)
+March 2016 [CodeAccross: Stop Violence Against Women](https://github.com/sfbrigade/research-group/tree/master/projects/CivicHackingEvents/CodeAccross_StopViolenceAgainstWomen_201603)
 
-[6/2016 National Day of Civic Hacking:_VR Learning / Zika Causes and Prevention](https://github.com/sfbrigade/research-group/tree/master/projects/CivicHackingEvents/NationalDayofCivicHacking_VRLearningZikaCausesPrevention_201606)
+June 2016 [National Day of Civic Hacking:_VR Learning / Zika Causes and Prevention](https://github.com/sfbrigade/research-group/tree/master/projects/CivicHackingEvents/NationalDayofCivicHacking_VRLearningZikaCausesPrevention_201606)
 
-[3/2017: CodeAcross: Lower SF Rents](https://github.com/sfbrigade/research-group/tree/master/projects/CivicHackingEvents/CodeAcross_LowerSFRents_201703)
+March 2017 [CodeAcross: Lower SF Rents](https://github.com/sfbrigade/research-group/tree/master/projects/CivicHackingEvents/CodeAcross_LowerSFRents_201703)
 
 ---
 
