@@ -3,7 +3,7 @@
 
 The UX Research Group applies user-centered design, design thinking methods, and lots of post-it notes to improve C4SF projects and the Brigade experience. 
 
-![](https://raw.githubusercontent.com/sfbrigade/research-group/master/images/codeacross-vaw-discussion1.jpg)
+![]((https://github.com/sfbrigade/research-group/blob/master/images/codeacross-vaw-discussion1.jpg)
 
 ---
 
@@ -56,7 +56,7 @@ Our working group exists to promote learning and mutual improvement among its me
 
 We believe this group is important because it helps reinforce user-centered design principles that are essential for the delivery of effective digital products and services.
 
-![](https://github.com/sfbrigade/research-group/blob/master/images/codeacross-vaw-postit-notes.jpg | width=50)
+![](https://github.com/sfbrigade/research-group/blob/master/images/codeacross-vaw-postit-notes.jpg)
 
 
 ## What we do in the community
@@ -67,6 +67,6 @@ We are an active group, and at any time you will find us working on a project to
 + **Workshop facilitations** to learn together about the underlying principles of user-centered design.
 + **Targeted studies** to address selected community and brigade-level issues and challenges.
 
-![](https://github.com/sfbrigade/research-group/blob/master/images/codeacross-vaw-discussion2.jpg | width=50)
+![](https://github.com/sfbrigade/research-group/blob/master/images/codeacross-vaw-discussion2.jpg)
 
 
