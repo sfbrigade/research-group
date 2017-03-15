@@ -3,12 +3,7 @@
 
 The UX Research Group applies user-centered design, design thinking methods, and lots of post-it notes to improve C4SF projects and the Brigade experience. 
 
-1
 ![](https://github.com/sfbrigade/research-group/blob/master/images/codeacross-vaw-discussion1.jpg)
-
-2
-![](https://raw.githubusercontent.com/sfbrigade/research-group/master/images/codeacross-vaw-discussion1.jpg "" {width=50%})
-
 
 ---
 
@@ -16,7 +11,7 @@ The UX Research Group applies user-centered design, design thinking methods, and
 
 All are welcome because UX research involves many different skills and skill levels! 
 
-Find us on the [#research slack channel](https://sfbrigade.slack.com/?redir=%2Farchives%2Fresearch) and we can talk about how you can get involved. We also convene at the [C4SF Civic Hack Night](http://codeforsanfrancisco.org/events/) on Wednesday evenings.
+We convene at the [C4SF Civic Hack Night](http://codeforsanfrancisco.org/events/) on Wednesday evenings. You can also find us on the [#research slack channel](https://sfbrigade.slack.com/?redir=%2Farchives%2Fresearch). Please reach out and we can talk about how you can get involved.
 
 ---
 
