@@ -3,7 +3,7 @@
 
 The UX Research Group applies user-centered design, design thinking methods, and lots of post-it notes to improve C4SF projects and the Brigade experience. 
 
-![](https://github.com/sfbrigade/research-group/blob/master/images/codeacross-vaw-discussion1.jpg | width=500)
+![](https://raw.githubusercontent.com/sfbrigade/research-group/master/images/codeacross-vaw-discussion1.jpg | width=500)
 
 ---
 
