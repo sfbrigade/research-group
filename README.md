@@ -7,7 +7,7 @@ The UX Research Group applies user-centered design, design thinking methods, and
 ![](https://github.com/sfbrigade/research-group/blob/master/images/codeacross-vaw-discussion1.jpg)
 
 2
-![](https://raw.githubusercontent.com/sfbrigade/research-group/master/images/codeacross-vaw-discussion1.jpg | width=50)
+![](https://raw.githubusercontent.com/sfbrigade/research-group/master/images/codeacross-vaw-discussion1.jpg | 500x500)
 
 
 ---
