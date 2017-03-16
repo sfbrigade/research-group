@@ -1,7 +1,7 @@
 [![Stories in Ready](https://badge.waffle.io/sfbrigade/research-group.png?label=ready&title=Ready)](https://waffle.io/sfbrigade/research-group)
 # Welcome to the UX Research Group!
 
-The UX Research Group applies user-centered design, design thinking methods, and lots of post-it notes to improve C4SF projects and the Brigade experience. 
+We are a working group at [Code for San Francisco](http://codeforsanfrancisco.org/). The UX Research Group applies user-centered design, design thinking methods, and lots of post-it notes to improve C4SF projects and the Brigade experience. 
 
 ![](https://github.com/sfbrigade/research-group/blob/master/images/codeacross-vaw-discussion1.jpg)
 
@@ -66,5 +66,4 @@ We are an active group, and at any time you will find us working on a project to
 + **Targeted studies** to address selected community and brigade-level issues and challenges.
 
 ![](https://github.com/sfbrigade/research-group/blob/master/images/codeacross-vaw-discussion2.jpg)
-
 
