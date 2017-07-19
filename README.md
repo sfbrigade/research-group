@@ -19,7 +19,7 @@ We convene at the [C4SF Civic Hack Night](http://codeforsanfrancisco.org/events/
 
 New member engagement is key to project success at Code for SF. To identify feasible and desirable areas of new member engagement improvements, the UX Research Group has conducted extensive user-centered design processes and gained initial success with physical, service, and digital prototypes, including signage, team accessibility program, project matching hat app, and web project list. The UX Research Group is in the process of turning our prototypes into full-scale implementations.	
 
-[Project README](https://github.com/sfbrigade/research-group/projects/NewMemberEngagement)
+[Project README](https://github.com/sfbrigade/research-group/tree/master/projects/NewMemberEngagement)
 
 #### Project History
 
