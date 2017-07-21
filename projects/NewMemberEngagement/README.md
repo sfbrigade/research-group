@@ -1,5 +1,7 @@
 # New Member Engagement Project
 
+[Project Introduction Web Page](http://old.codeforsanfrancisco.org/research-group/projects/NewMemberEngagement/)
+
 ## Project Goals:
 
 * To improve new member engagement and new member retention at Code for SF
@@ -9,7 +11,7 @@
 
 1-1. Inspiration: new member need finding with interviews and surveys
 * goals: to identify new member needs, and gain inspirations for solutions to new member engagement
-* folder: 1-1_Inspiration_Interviews-Serveys-NeedFindings_201601-201603
+* [1-1 Inspiration: Interviews Surveys Need-Findings, 201601-201603](./1-1_Inspiration_Interviews-Serveys-NeedFindings_201601-201603/)
 
 2-1. Ideation: new member characteristics & needs with personas & journey maps
 * goals: to identify new member characteristics and emphasize with their pain points throughout the journey at CodeforSF 
