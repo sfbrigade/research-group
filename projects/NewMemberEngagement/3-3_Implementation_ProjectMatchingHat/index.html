@@ -75,18 +75,22 @@
         <!-- content --> 
         <div>
           <h3> Implementation: Project Matching App </h3><br>
-          <p> First-time Code for SF new members often experience <strong>the difficulty of identifying a fitting project and the challenge of initiating communication with project teams</strong> before the Hack Night work session. The resulting frustration often blocks new members’ from effectively contributing to Code for SF projects or returning to the Hack Night.</p><br>
+          <h4>Problem Statement and Proposed Solution</h4>
+          <p> First-time Code for SF new members often experience <strong>the difficulty of identifying a fitting project and the challenge of initiating communication with project teams</strong> before the Hack Night work session. The resulting frustration often blocks new members’ from effectively contributing to Code for SF projects or returning to the Hack Night.</p>
           
           <P> The Research Group decided <strong>to build a Project Matching App to facilitate the matching between project teams and new members based on their shared skills and interests, and to enable online email communication</strong>. Project Matching App was the result of our open brainstorming sessions with new members, in which a personal one-on-one conversation with a Core Team member to identify fitting projects was also proposed. The Research Group favored a matching app because it has the advantage of being more scalable, detailed, consistent, and free of the constraint of time and location. We hope that the implementation of Project Matching App benefits not only new members but also Code for SF project teams that are looking for talents to work on the project.</p><br>
 
+            
+          <h4> Prototyping and User Testing </h4>
           <p>We are currently in the prototyping and user testing phase, with a small group of developers simultaneously working on turning the interactive prototype into a fully-functional digital prototype. The key questions we are trying to answer with our prototypes are:</p>
           <ul>
             <li> What comprises the taxonomy of Code for SF members’ skills and civic interests?</li>
             <li> What are the optimal project content and layout design that enable first-time new members to identify fitting projects efficiently and effectively?</li>
             <li> What would be a straightforward way to facilitate communication between new members and project teams after project matching? </li>
-          </ul> <br>
+          </ul> 
 
-          <p><strong> Taxonomy of skills and interests.</strong> The Research Group designed a survey to collect keywords of skills and civic interests from Code for SF members, performed open-card sorting analysis to categorize the keywords, and conducted user testing to verify whether the keywords and keyword categories are understandable, useful, and match users’ expectations. We are in the process of fine-tuning the keywords and keyword categories.</p>
+          <h5><strong>Taxonomy of Skills and Civic Interests </strong> </h5>
+          <p> The Research Group designed a survey to collect keywords of skills and civic interests from Code for SF members, performed open-card sorting analysis to categorize the keywords, and conducted user testing to verify whether the keywords and keyword categories are understandable, useful, and match users’ expectations. We are in the process of fine-tuning the keywords and keyword categories.</p>
 
           <div>
             <figure class="figure" >
@@ -94,9 +98,10 @@
               <figcaption class="figure-caption"> <em> New members participated in open card-sorting sessions to group taxonomy of skills and interests. New members were instructed to think-aloud as they sorted the cards, and provided feedback on keywords and categories in the end.  </em></figcaption>
             </figure>
           </div>
-          <br><br>    
+          <br>   
 
-          <p><strong>Project content.</strong>We determined the contents of our Project Matching App based on earlier user need finding studies, as well as card sorting results on content priorities. Our findings of the project contents and their priorities are listed below. <p>
+          <h5><strong>Project Content</strong></h5>
+          <p>We determined the contents of our Project Matching App based on earlier user need finding studies, as well as card sorting results on content priorities. Our findings of the project contents and their priorities are listed below. <p>
           <ul>
             <li>Higher priority: mission statements, learning opportunities, skills/stacks used, to-do tasks.</li>
             <li>Lower priority: deliverables and progress, team lead’s name and photo, expected weekly participation level.</li>
@@ -107,26 +112,28 @@
               <img src="#" class="figure-img img-fluid rounded" alt="User testing on project content" style="width:617px;height:324px;">
               <figcaption class="figure-caption"> <em> Project leads and new members participated in user testing sessions to provide feedback on project content. The UX Group formed content strategy accordingly.  </em></figcaption>
             </figure>
-          </div><br><br>
+          </div><br>
 
-
-          <p><strong>Project list layout.</strong>The Research Group went through brainstorming sessions on storyboard, user flow, crazy-eight sketches of different UI designs, low-fidelity prototyping, user testing, and high-fidelity prototyping. During the process, we switched from the ‘wizard design’(version 1.0), where new members are guided step-by-step during the matching process, to the ‘sorting by filter bar’ design (version 2.0), aiming to increase the efficiency of the matching process.</p>
+          <h5><strong>Project List Layout</strong></h5>
+          <p>The Research Group went through brainstorming sessions on storyboard, user flow, crazy-eight sketches of different UI designs, low-fidelity prototyping, user testing, and high-fidelity prototyping. During the process, we switched from the ‘wizard design’(version 1.0), where new members are guided step-by-step during the matching process, to the ‘sorting by filter bar’ design (version 2.0), aiming to increase the efficiency of the matching process.</p>
           <div>
             <figure class="figure" >
               <img src="#" class="figure-img img-fluid rounded" alt="Storyboard of project matching app" style="width:617px;height:324px;">
               <figcaption class="figure-caption"> <em> Storyboards of Project Matching App. The UX Group works on storyboarding new members’ experiences and potential pain points using Project Matching App. The storyboard helps the UX Group to empathize with new members and set our design goals to fit with their needs. </em></figcaption>
             </figure>
-          </div><br>
+          </div>
           <div>
             <figure class="figure" >
               <img src="#" class="figure-img img-fluid rounded" alt="Crazy-eights for project matching app" style="width:617px;height:324px;">
               <figcaption class="figure-caption"> <em> Crazy-eights for Project Matching App. The UX Group sketched out different variations of the Project Matching App UI in a short amount ot time. The sketches were later displayed on the wall for silent critiques and voting. The modules that received most votes were combined into prototypes for further evaluation and user testing.</em></figcaption>
             </figure>
-          </div><br><br>
+          </div><br>
 
-          <p><strong>Communication facilitation between new members and project teams. </strong> We added ‘bookmark’ and ‘email’ features to the Project Matching App, based on the learning that first-time new members want to be able to save their favorite projects, and possibly contact project team leads. New members at our user testing session reported these features to be helpful as conversation starters in person.</p> <br>
+          <h5><strong>Communication Cacilitation between New Members and Project Teams. </strong> </h5>
+          <p>We added ‘bookmark’ and ‘email’ features to the Project Matching App, based on the learning that first-time new members want to be able to save their favorite projects, and possibly contact project team leads. New members at our user testing session reported these features to be helpful as conversation starters in person.</p> <br>
 
-          <p><strong>Digital prototype.</strong> The digital prototype is developed in javascript and python and is based on our prototyping and user-testing results.  </p><br>
+          <h5><strong>Digital prototype.</strong></h5>
+          <p> The digital prototype is developed in javascript and python and is based on our prototyping and user-testing results.  </p><br>
 
           <p>The Research Group is in the process of developing and testing prototypes. If you are interested in participating, please contact us.</p><br><br>
 
