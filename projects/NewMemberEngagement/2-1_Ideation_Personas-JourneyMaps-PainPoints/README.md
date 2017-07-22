@@ -14,11 +14,11 @@ New Member Characteristics and Pain Points with Personas and JourneyMaps
 
 # Activities  
 
-1. Personas
+1. **Personas**
  * [Brainstorming photos](./1-1_Personas_BrainstormPhotos/)
  * [Personas in 2x2 matrix](./1-2_Personas_2x2Matrix_20160219.png) based on skills and attitudes 
  * [Four representative personas](./1-3_Personas_Muraly_JaoyiEdit_20160406.pdf) and their characteristics 
- * Open source [persona avatar library](./Placeit Avatar Pack/) 
+ * Open source [persona avatar library](./Placeit%20Avatar%20Pack]
  * by Larry, Jacob, Carla, John-Michael, James, and Jaoyi
 
 2. Journey Maps
