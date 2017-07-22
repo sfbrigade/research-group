@@ -12,18 +12,18 @@
 ## Activities  
 
 1. Individual interviews with 5 project team leads & 5 new members. 
- * Script and notes ( file: IndividualInterviews_ProjectLeads-NewMembers-GovRep_ScriptsandNotes_20160224)
- * Need finding results & summary lists of needs (file: IndividualInterviews_ProjectLeads-NewMembers-GovRep_Findings_20160224 )
+ * [Script and notes](./IndividualInterviews_ProjectLeads-NewMembers-GovRep_ScriptsandNotes_20160224)
+ * [Need finding results & summary lists of needs] (./IndividualInterviews_ProjectLeads-NewMembers-GovRep_Findings_20160224 )
  * by Jaoyi
 
 2. Group interview with 4 new members
- * Script and note (file: GroupInterviews_ NewMembers_Notes_20160317)
+ * [Script and note](./GroupInterviews_ NewMembers_Notes_20160317)
  * by Jaoyi & Carla
 
 3. Survey analysis
- * survey designed by Julio (?) 
- * data collection and analysis (file: MemberSurvey_Data-Analysis_20160308), by Jaoyi
- * We also summarized our survey findings (file: MemberSurvey_Findings_20160308), by jaoyi
+ * Survey designed by Julio (?) 
+ * [Data collection and analysis](./MemberSurvey_Data-Analysis_20160308), by Jaoyi
+ * We also summarized our [survey findings](./MemberSurvey_Findings_20160308), by jaoyi
 
-We wrote up our interview results and recommendations to Code for SF Core Team to improve new member engagement (file: NewMemberEngagementRecommendations_Writeup_20160317), with a storyboard of new member pain points at the Code for SF Hack night attached (file: NewMemberPainPoints_StoryBoard_20160317) 
+We wrote up our interview results and [recommendations for new member engagement improvements](./NewMemberEngagementRecommendations_Writeup_20160317)for Code for SF Core Team, with a [storyboard of new member pain points](./NewMemberPainPoints_StoryBoard_20160317) at the Code for SF Hack night attached  
 * by Jaoyi
