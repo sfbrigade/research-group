@@ -11,16 +11,16 @@
 
 ## Activities  
 
-1. Individual interviews with 5 project team leads & 5 new members. 
+**1. Individual interviews with 5 project team leads & 5 new members** 
  * [Script and notes](./IndividualInterviews_ProjectLeads-NewMembers-GovRep_ScriptsandNotes_20160224.pdf)
  * [Need finding results & summary lists of needs](./IndividualInterviews_ProjectLeads-NewMembers-GovRep_Findings_20160224.pdf)
  * by Jaoyi
 
-2. Group interview with 4 new members
+**2. Group interview with 4 new members**
  * [Script and notes](./GroupInterviews_%20NewMembers_Notes_20160317.pdf)
  * by Jaoyi & Carla
 
-3. Survey analysis
+**3. Survey analysis**
  * Survey designed by Julio (?) 
  * [Data collection and analysis](./original-docs/MemberSurvey_Data-Analysis_20160308.xlsb), by Jaoyi
  * We also summarized our [survey findings](./MemberSurvey_Findings_20160308.pdf), by jaoyi
