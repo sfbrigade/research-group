@@ -17,7 +17,7 @@
  * by Jaoyi
 
 2. Group interview with 4 new members
- * [Script and note](./GroupInterviews_ NewMembers_Notes_20160317.pdf)
+ * [Script and notes](./GroupInterviews_ NewMembers_Notes_20160317.pdf)
  * by Jaoyi & Carla
 
 3. Survey analysis
