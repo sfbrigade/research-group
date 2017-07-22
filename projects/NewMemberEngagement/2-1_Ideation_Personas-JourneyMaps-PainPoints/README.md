@@ -15,23 +15,23 @@ New Member Characteristics and Pain Points with Personas and JourneyMaps
 # Activities  
 
 1. Personas
- * Brainstorming photos ( folder: 1-1 Personas_BrainstormPhotos)
- * Personas in 2x2 matrix based on skills and attitudes (file: I1-2 Personas_2x2Matrix_20160219 )
- * Four representative personas and their characteristics (file 1-3 Personas_Muraly_JaoyiEdit_20160406) 
- * Open source persona avatar library (folder: Placeit Avatar Pack) 
+ * [Brainstorming photos](./1-1 Personas_BrainstormPhotos/)
+ * [Personas in 2x2 matrix](./1-2 Personas_2x2Matrix_20160219.png) based on skills and attitudes 
+ * [Four representative personas](./1-3 Personas_Muraly_JaoyiEdit_20160406.pdf) and their characteristics 
+ * Open source [persona avatar library](./Placeit Avatar Pack/) 
  * by Larry, Jacob, Carla, John-Michael, James, and Jaoyi
 
 2. Journey Maps
- * Brainstorming photos (folder: 2-1 JourneyMaps_BrainstormPhotos)
- * Journey map summary on Muraly (file: 3-1 PainPointCategorizations-Personas-JourneyMaps_MuralyRawData_20160331)
- * A journey map example- ‘apprentice’ persona (file: 2-2 JourneyMaps_Apprentice_Muraly_JaoyiEdit_20160406)
+ * [Brainstorming photos](./2-1 JourneyMaps_BrainstormPhotos/)
+ * [Journey map summary](./3-1 PainPointCategorizations-Personas-JourneyMaps_MuralyRawData_20160331.png) on Muraly 
+ * [An example of journey map](./2-2 JourneyMaps_Apprentice_Muraly_JaoyiEdit_20160406.png)- ‘apprentice’ persona 
  * by Larry, Jacob, Carla, John-Michael, James, and Jaoyi
 
 3. Pain points
- * Pain points brainstorming & pain point categorization on Muraly (file: 3-1 PainPoints-Personas-JourneyMaps_MuralyRawData_20160331) 
- * Pain point summary & priority votes (file: 3-2 PainPoints_MuralySummaryandPriorityVotes_JaoyiEdit_20160406)
+ * [Pain points brainstorming & pain point categorization](./3-1 PainPoints-Personas-JourneyMaps_MuralyRawData_20160331.png)  on Muraly 
+ * [Pain point summary & priority votes](./3-2 PainPoints_MuralySummaryandPriorityVotes_JaoyiEdit_20160406.pdf)
  * by Larry, Jacob, Carla, John-Michael, James, and Jaoyi
 
 4. Persona-JourneyMap Summary
- * Figures of Personas and JourneyMaps ( Illustrator file: 4-1_PersonaJourneyMapFigures )
- * Areas of improvements on new member engagement and their priority  (file 4-2_NewMemberEngagement_PainpointsandImprovementAreas_20170209) 
+ * [Personas and JourneyMaps](./original-docs/4-1_PersonaJourneyMapFigures.ai) in illustrator file
+ * [New member engagement improvements and their priorities](./4-2_NewMemberEngagement_PainpointsandImprovementAreas_20170209) 
