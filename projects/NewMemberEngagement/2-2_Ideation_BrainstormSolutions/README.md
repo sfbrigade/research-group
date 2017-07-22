@@ -10,14 +10,14 @@
 
 ## Activities
 
-1. Brainstorming ideas to provide desirable project details & to make project teams more accessible to new members 
- * Brainstorming session photos (folder: BrainstormPhotos)
- * Brainstorming template:Swap (file: Swap_BrainstormTemplate_20160406)
- * Raw result aggregate (file: 1-1 Brainstorm_ProjectDetails-TeamAcessibility_Ideas_20160406).  
- * Summary of proposed implementations selected from the list of ideas (file 1-2 BrainstormSummary_ProjectDetails-TeamAcessibility_Implementations-Ideas_20170210)
+1. **Brainstorming ideas to provide desirable project details & to make project teams more accessible to new members** 
+ * [Brainstorming session photos](./BrainstormPhotos/)
+ * [Brainstorming template:Swap](./Swap_BrainstormTemplate_20160406.pdf)
+ * [Raw result aggregate](/1-1 Brainstorm_ProjectDetails-TeamAcessibility_Ideas_20160406.pdf)  
+ * Summary of [proposed implementations](./1-2 BrainstormSummary_ProjectDetails-TeamAcessibility_Implementations-Ideas_20170210.pdf) selected from the list of ideas 
  * by (UX team members) Carla, James, Jaoyi, (New members) Caitlin, David, Jersey, Tess
 
-2. Brainstorming ideas to improve the clarity of different hack night info
- * Brainstorming session photos (folder: BrainstormPhotos)
- * Raw result aggregate (file: 2-1 Brainstorm_ClearHacknightInfo_Ideas_20160413 )
- * Summary of proposed implementations selected from the list of ideas (file: 2-2 BrainstormSummary_ClearHacknightInfo_Implementations-Ideas_20170210)
+2. **Brainstorming ideas to improve the clarity of different hack night information**
+ * [Brainstorming session photos](./BrainstormPhotos/)
+ * [Raw result aggregate](./2-1 Brainstorm_ClearHacknightInfo_Ideas_20160413.pdf)
+ * Summary of [proposed implementations](./2-2 BrainstormSummary_ClearHacknightInfo_Implementations-Ideas_20170210.pdf) selected from the list of ideas 
