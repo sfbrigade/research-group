@@ -41,7 +41,7 @@ Web application to facilitate matching between new members and project teams bas
 * By Jaoyi
 
 2-1 **Site flow brainstorming**
-* [Brainstorming photos](./2-1_SiteFlowEvaluations_V02/)
+* [Site flow brainstorming photos](./2-1_SiteFlowEvaluations_V02/)
 * [Evaluations of different site flows: wizard, sorting on top, flow design](././2-1_SiteFlowEvaluations_V02/SiteFlowEvaluationSummary_20170215.pdf)
 * By Jeremie, Molly, Tal, Jaoyi
 
@@ -56,7 +56,7 @@ Web application to facilitate matching between new members and project teams bas
 * An algorithm for matching members to projects was prototyped in python. 
 * The web prototype is actively being developed in nodejs/mongodb 
 
-##To-Dos
+## To-Dos
 * Prototyping Project Matching App Version-02
 * User testing Version-02
 * Building digital prototype for Version-02
