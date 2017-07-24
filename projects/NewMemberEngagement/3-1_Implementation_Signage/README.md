@@ -18,9 +18,9 @@
  * by Phoebe, Sandra, Uday, Jaoyi
 
 2-1. **Prototype design**
-
  * [Door sign designs](./2_1_PrototypeDesign/DoorSign_Prototypes_20160525.pdf) (based on sketches) 
  * [Floormap agenda sign prototype](2_1_PrototypeDesign/FloormapAgendaSign_Prototypes_20160525.pdf)
+ * By Phoebe, Sandra, Uday, Jaoyi
 
 2-2. **Prototype user testing**
 
