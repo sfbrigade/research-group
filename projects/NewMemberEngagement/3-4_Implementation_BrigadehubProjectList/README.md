@@ -26,4 +26,4 @@ Improving how new members interact with project information on the SF Brigade we
 * [User testing report: UX recommendations for the Code for SF project list](./UXRecommendations_20160720.pdf)
 
 ## To-Dos
-* Implmentations of the recommended UX changes to the Code for SF project list. If you are interested, please reach out to the UX Research team at Code for SF. 
+* Implmentations of the recommended UX changes. We need experienced javascript/nodejs developers help implement the recommended UX changes. If you are interested, please reach out to the UX Research team at Code for SF. 
