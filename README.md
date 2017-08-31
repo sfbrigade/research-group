@@ -3,6 +3,8 @@
 
 We are a working group at [Code for San Francisco](http://codeforsanfrancisco.org/). The UX Research Group applies user-centered design, design thinking methods, and lots of post-it notes to improve C4SF projects and the Brigade experience. 
 
+:cool: Check out our [New Member Engagement Project Website](http://old.codeforsanfrancisco.org/research-group/projects/NewMemberEngagement/) :cool:
+
 ![](https://github.com/sfbrigade/research-group/blob/master/images/codeacross-vaw-discussion1.jpg)
 
 ## How to get involved
